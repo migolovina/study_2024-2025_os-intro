@@ -1,3 +1,7 @@
+## [1.2.4](https://github.com/migolovina/study_2024-2025_os-intro/compare/1.2.3...1.2.4) (2025-03-02)
+
+
+
 ## [1.2.3](https://github.com/migolovina/study_2024-2025_os-intro/compare/1.0.0...1.2.3) (2025-03-02)
 
 
